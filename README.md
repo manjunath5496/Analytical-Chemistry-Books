@@ -55,8 +55,25 @@
 19. Vogel's Textbook of Quantitative Chemical Analysis</br>
                 <a href="https://github.com/manjunath5496/Biology-Books/blob/master/ac(19).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                                 
-                
-                
+20. Analytical Methods in Supramolecular Chemistry</br>
+                <a href="https://github.com/manjunath5496/Biology-Books/blob/master/ac(20).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+21. Analytical Chemistry in Archaeology</br>
+                <a href="https://github.com/manjunath5496/Biology-Books/blob/master/ac(21).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                                                
+22. Modern Analytical Chemistry</br>
+                <a href="https://github.com/manjunath5496/Biology-Books/blob/master/ac(22).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+23. Quality Assurance in the Analytical Chemistry Laboratory</br>
+                <a href="https://github.com/manjunath5496/Biology-Books/blob/master/ac(23).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                                                
+24. Analytical Chemistry: Theoretical and Metrological Fundamentals</br>
+                <a href="https://github.com/manjunath5496/Biology-Books/blob/master/ac(24).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+25. Analytical Chemistry for Technicians</br>
+                <a href="https://github.com/manjunath5496/Biology-Books/blob/master/ac(25).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                                                
+                                            
                 
                 
                 
